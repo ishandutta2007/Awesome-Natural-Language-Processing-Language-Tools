@@ -250,6 +250,17 @@ Star the repo if you find it useful!
 
 
 
+---
+
+## 💖 Support & Sponsor
+
+If you find this curated ecosystem tracker helpful, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it on GitHub.
+- 🍴 **Fork and contribute** to keep the tools, benchmarks, and library entries up to date.
+- 📢 **Share with colleagues**, AI researchers, and NLP engineers.
+- ☕ **Buy me a coffee / Sponsor**: Support continuous maintenance and curation via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
 ## Disclaimer
 
 
